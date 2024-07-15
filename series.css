@@ -1,0 +1,14 @@
+.series {
+    padding: 40px 0;
+}
+
+.series-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.series-item {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+}

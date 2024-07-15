@@ -1,0 +1,14 @@
+.pickup {
+    padding: 40px 0;
+}
+
+.pickup-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.pickup-item {
+    width: calc(50% - 20px);
+    margin-bottom: 20px;
+}

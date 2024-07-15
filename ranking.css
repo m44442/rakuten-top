@@ -1,0 +1,16 @@
+.ranking {
+    padding: 40px 0;
+    background-color: #f8f8f8;
+}
+
+.ranking-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ranking-item {
+    width: calc(20% - 20px);
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

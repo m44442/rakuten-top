@@ -1,0 +1,14 @@
+.recommend {
+    padding: 40px 0;
+}
+
+.recommend-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.recommend-item {
+    width: calc(25% - 20px);
+    margin-bottom: 20px;
+}
